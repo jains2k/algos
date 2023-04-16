@@ -1,4 +1,6 @@
-// UnionFind.class
+package com.sj.learning.algos.graphs;
+
+// com.sj.learning.algos.graphs.UnionFind.class
 class UnionFind {
     private int[] root;
 
